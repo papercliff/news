@@ -1,23 +1,22 @@
 name: Sharad Raj
-dp: https://avatars2.githubusercontent.com/u/36638057?s=460&u=0cbe4fd6b5a3655d91b3eb86db834d0829a0c086&v=4
+dp: https://avatars.githubusercontent.com/u/116380114?s=400&u=1d42359e0c4f6e360fb58352bb20aab77bd7fe8b&v=4
 description: "
-  <p>
-    Developed by Sharad Raj who lives in India building useful things for the world.
-  </p>
-  <br/>
-  <p>
-    You should follow him on <a href='https://github.com/sharadcodes' target='_blank'>Github</a>
-  </P>
+Papercliff looks at the world’s largest news agencies, reads articles, identifies and shares keywords
 "
-email: dev_sharad@outlook.com
 contact:
-  - title: linkedin
-    url: https://www.linkedin.com/in/srsmaurya
   - title: github
-    url: https://github.com/sharadcodes
+    url: https://github.com/papercliff
+  - title: rapidapi
+    url: https://rapidapi.com/mrdimosthenis/api/papercliff/
   - title: twitter
-    url: https://twitter.com/iamsharadraj
-  - title: dev
-    url: https://dev.to/sharadcodes
-  - title: email
-    url: mailto:dev_sharad@outlook.com
+    url: https://twitter.com/papercliff_api
+  - title: mastodon
+    url: https://newsie.social/@papercliff
+  - title: reddit
+    url: https://www.reddit.com/r/papercliff/
+  - title: linkedin
+    url: https://www.linkedin.com/company/papercliff-api
+  - title: facebook
+    url: https://www.facebook.com/profile.php?id=100089193848232
+  - title: tumblr
+    url: https://www.tumblr.com/papercliff-api
