@@ -1,8 +1,7 @@
 name: Sharad Raj
 dp: https://avatars.githubusercontent.com/u/116380114?s=400&u=1d42359e0c4f6e360fb58352bb20aab77bd7fe8b&v=4
 description: "
-Papercliff looks at the world’s largest news agencies and creates posts containing the respective keywords.
-Click to get a list of related articles or see the daily graphs.
+papercliff looks at the world’s largest news agencies, reads articles, identifies and shares keywords
 "
 contact:
   - title: github
