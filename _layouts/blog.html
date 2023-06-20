@@ -5,6 +5,12 @@
 <main>
   {% include header.html %} {% include bio.html %}
   <section class="articles">
+    <article class="article">
+      <a>📌</a>
+      <video width="100%" poster="assets/images/explanatory-frame.jpg" controls>
+        <source src="assets/videos/explanatory.mp4" type="video/mp4">
+      </video>
+    </article>
     {% for post in site.posts %}
     {% if post.is_image %}
     <article class="article">
